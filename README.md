@@ -29,6 +29,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaykeCity&theme=radical" />
 </a> -->
 
-<a href="https://github.com/KaykeCity/KaykeCity">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KaykeCity&show_icons=true&theme=radical&line_height=27" alt="KaykeCity" />
+<a href="https://github.com/kaykessantos/kaykessantos">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaykessantos&show_icons=true&theme=radical&line_height=27" alt="kaykessantos" />
 </a>
