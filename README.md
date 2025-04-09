@@ -20,4 +20,4 @@ Hello! I am Kayke, a developer and member of the [redeparadox](https://redeparad
 <br />
 <br />
 
-[![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykessantos&show_icons=true&theme=dark)](https://github.com/kaykessantos/github-readme-stats)
+[![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykessantos&show_icons=true&theme=dark)](https://github.com/kaykessantos)
