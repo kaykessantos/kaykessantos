@@ -23,6 +23,6 @@ Hello! I am Kayke, a developer and member of the [redeparadox](https://redeparad
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaykeCity&theme=radical" />
 </a> -->
 
-<a href="https://github.com/kaykessantos/kaykessantos">
+<a href="https://github.com/kaykessantos">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaykessantos&show_icons=true&theme=radical&line_height=27" alt="kaykessantos" />
 </a>
