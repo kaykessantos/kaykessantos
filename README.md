@@ -2,7 +2,7 @@ Hello! I am Kayke, a developer and member of the [redeparadox](https://redeparad
 
 ### Languages
 
-[![Pawn](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=pawn&logoColor=white)](https://github.com/pawn-lang)
+[![Pawn](https://img.shields.io/badge/Pawn-dbb284?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://github.com/pawn-lang)
 
 ### Database Tools
 
@@ -15,14 +15,9 @@ Hello! I am Kayke, a developer and member of the [redeparadox](https://redeparad
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 <br />
 <br />
 
-<!-- <a href="https://github.com/KaykeCity/KaykeCity">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KaykeCity&theme=radical" />
-</a> -->
-
-<a href="https://github.com/kaykessantos">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaykessantos&show_icons=true&theme=radical&line_height=27" alt="kaykessantos" />
-</a>
+[![Kayke GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykessantos&show_icons=true&theme=dark)](https://github.com/kaykessantos/github-readme-stats)
